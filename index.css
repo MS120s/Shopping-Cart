@@ -46,6 +46,12 @@ button{
     border-radius: 6px;
 }
 
+#maincontain{
+    max-width: 320px;
+    margin: auto;
+    /* background-color: yellow;
+} */
+
 #container{
     display: grid;
     place-content: center;
