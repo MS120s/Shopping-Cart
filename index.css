@@ -72,7 +72,7 @@ button:active{
 #container{
     display: grid;
     place-content: center;
-    margin-top: 100px;
+    margin-top: 50px;
     width: 100%;
     /* background-color: red; */
 }
